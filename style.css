@@ -1,0 +1,14 @@
+html, body {
+    text-align: center;
+    font-family: Nunito Sans, Arial;
+    background-color: rgb(24, 26, 27);
+    color: white;
+}
+
+a {
+    color: aqua;
+}
+
+a:visited {
+    color: lightblue;
+}
